@@ -1,0 +1,4 @@
+,CustomerID,Recency,RecencyCluster,Frequency,FrequencyCluster,Revenue,RevenueCluster,OverallScore,LTVClusterPrediction,NextPurchaseDayRange,Segment
+0,1,7,0,7,0,130433.0,1,1,2,2,Low-Value
+1,2,0,0,4,0,71500.0,1,1,1,2,Low-Value
+2,3,29,0,4,0,16878.0,0,0,2,0,Low-Value
